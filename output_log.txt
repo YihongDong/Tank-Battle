@@ -1,0 +1,57 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930M (ID=0x1346)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  1.823 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\游戏\坦克大战3D 3.0\坦克大战3D 3.0_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3d2c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.090075 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1060.
+Total: 0.601283 ms (FindLiveObjects: 0.071111 ms CreateObjectMapping: 0.032395 ms MarkObjects: 0.478024 ms  DeleteObjects: 0.018962 ms)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.157333 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1060.
+Total: 0.660543 ms (FindLiveObjects: 0.104296 ms CreateObjectMapping: 0.044641 ms MarkObjects: 0.488296 ms  DeleteObjects: 0.022518 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.138469 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1060.
+Total: 0.946962 ms (FindLiveObjects: 0.075456 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.443259 ms  DeleteObjects: 0.388345 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
